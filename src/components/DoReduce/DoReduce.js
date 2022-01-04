@@ -3,7 +3,7 @@ import React from 'react';
 const DoReduce = () => {
     return (
         <div>
-            <h1>do reduce</h1>
+            <h1>Do reduce</h1>
         </div>
     );
 };
